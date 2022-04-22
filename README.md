@@ -6,9 +6,9 @@ Program for correct copying of audiobooks to USB sticks in Linux using GUI
 2. Install in with ```sudo pacman -U package_name```
 
 # Installing on Arch from source
-Install ```base-devel``` package if needed:
+Install ```base-devel and git``` packages if needed:
 ```
-sudo pacman -S base-devel
+sudo pacman -S base-devel git
 ```
 Clone repo and install:
 ```
